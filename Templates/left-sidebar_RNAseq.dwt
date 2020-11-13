@@ -61,9 +61,9 @@
 <script src="../assets/lagunita/js/custom.js"></script>
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
-<!-- TemplateParam name="site_name_1" type="text" value="Goronzy Laboratory Datasets" -->
+<!-- TemplateParam name="site_name_1" type="text" value="Goronzy Laboratory" -->
 <!-- TemplateParam name="site_slogan" type="text" value="Datasets" -->
-<!-- TemplateParam name="site_url" type="text" value="/" -->
+<!-- TemplateParam name="site_url" type="text" value="./index.html" -->
 <!-- TemplateParam name="body_class" type="text" value="home" -->
 <!-- TemplateParam name="h1" type="text" value="" -->
 <!-- TemplateParam name="logo" type="text" value="" -->
@@ -141,7 +141,7 @@
                 <ul class="nav navbar-nav" aria-label="primary navigation">
                   <li id="nav-home"> <a href="../index.html">Home</a></li>
                   <li id="nav-1"> <a href="./RNA-Seq.html">RNA-Seq</a> </li>
-                  <!-- <li id="nav-2"> <a href="./ATAC-Seq.html">ATAC-Seq</a> </li> -->
+                  <li id="nav-2"> <a href="./ATAC-Seq.html">ATAC-Seq</a> </li>
                   <!-- <li id="nav-3"> <a href="../two-sidebars">Two Sidebars</a> </li>
                   <li id="nav-4"> <a href="../no-sidebars">No Sidebars</a> </li>
                   <li id="nav-5"> <a href="../wide">Wide</a> </li> -->
