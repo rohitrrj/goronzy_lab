@@ -178,9 +178,10 @@
 			  <!-- TemplateBeginEditable name="sidebar-nav" --> 
             <h2>CONTENTS</h2>
             <ul class="nav" role="navigation">
-              <li><a href="../RNA-Seq.html" class="toc_current">Introduction</a></li>
-              <li><a href="../RNA-Seq_CD4_CD8_Healthy_Aging.html">CD4 - CD8 Healthy Aging</a></li>
-				<li><a href="../RNA-Seq_YellowFever_RafiAhmed.html">Yellow Fever (Rafi Ahmed)</a></li>
+              <li><a href="./RNA-Seq.html" class="toc_current">Introduction</a></li>
+              <li><a href="./RNA-Seq_CD4_CD8_Healthy_Aging.html">CD4 - CD8 Healthy Aging</a></li>
+			  <li><a href="./RNA-Seq_YellowFever_RafiAhmed.html">Yellow Fever (Rafi Ahmed)</a></li>
+			  <li><a href="./RNA-Seq_T_cell_Activation.html">T-cell Activation (anti-CD3)</a></li>
               <!-- <li><a href="#">Sub Topic 2</a></li>
               <li><a href="#">Sub Topic 3</a></li>
               <li><a href="#">Sub Topic 4</a></li> -->
